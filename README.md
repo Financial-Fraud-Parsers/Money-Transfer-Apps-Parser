@@ -1,1 +1,1 @@
-# Money-Transfer-Apps-Parser
+# Money Transfer Apps Parser
